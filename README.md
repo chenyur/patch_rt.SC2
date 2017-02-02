@@ -21,18 +21,18 @@ Any conflicts will be noted in the change list
 Initially intended to work with English Broodwar version 1.16.1
 
 ## How to create your own patch_rt.mpq with custom hotkeys in 2017
-There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I've had no luck with them
+There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I've had ~~no luck with them~~ okay WinMPQ 1.66 works with listfile, but since I have Chinese and Japanese installed on my computer Tblpad is no good
 
 1. Download PyMS from https://github.com/poiuyqwert/PyMS
   * Install Python if you don't have it installed. 
   * To check, open up cmd/terminal and type python
   * I have Python 2.7.8 on a Windows 8.1 machine
-  * You might need to install PIL for your version of python
-2. Download WinMPQ 3.5.1.188 http://www.zezula.net/en/mpq/download.html
-  * You also need the listfile, available on the same page, extract it
+  * You might need to install PIL for your version of python http://pythonmac.org/packages/py25-fat/index.html
+2. Download WinMPQ from http://sfsrealm.hopto.org/dwnload.html, don't forget to install all dependancies, I use the VB6 version
+  * You also need the listfile if you can't see filenames, available on this http://www.zezula.net/en/mpq/download.html page, extract it - The WinMPQ version from this page does not work for me
 3. Make a working copy of original patch_rt.mpq in the **same folder** as PyMS
-  * Open patch_rt.mpq with WinMPQ, click Add Listfile, choose Starcraft BW.txt
-  * On the left choose the rez folder and find stat_txt.tbl in the locale you want (Neutral is English)
+  * Open patch_rt.mpq with WinMPQ, add listfile from options, choose Starcraft BW.txt
+  * Find rez\stat_txt.tbl, in the locale you need (if there are multiple, Neutral is English)
   * Right click, extract and move the tbl file to the PyMS folder
 4. Open up a cmd/terminal, move to the PyMS folder and use it to decompile the tbl file using commands below
   * Details can be found at http://poiuyqwert.byethost22.com/PyMSDocs/PyTBL.html
@@ -54,7 +54,7 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
   ```
   python PyTBL.pyw -c stat_txt.txt
   ```
-7. Simply drag the tbl file back into the rez folder in WinMPQ to replace it and **close WinMPQ**
+7. Add the tbl file in WinMPQ to replace it and **close WinMPQ**, when prompted input \rez
 8. Replace patch_rt.mpq with the one you have just created and launch Broodwar to test your change in game!
 
 ## Roadmap
