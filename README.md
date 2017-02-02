@@ -46,14 +46,14 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
   > Suppose you want to make "Warp in Pylon" hotkey e instead of p  
   > find the line that reads "p<1>Warp in <3>P<1>ylon<0>"  
   > The first p represents its hotkey, but it is invisible in the game, <1> makes all text following it white, while <3> makes it yellow (to indicate that it's a hotkey)  
-  > Since e isn't a part of "pylon", we can write (e) to indicate its new hotkey  
-  > Thus, the line becomes "e<1>Warp in Pylon <3>(E)<0>"  
+  > Since e isn't a part of "pylon", we can write (E) to indicate its new hotkey  
+  > Thus, the line becomes "e<1>Warp in Pylon<3>(E)<0>" - Do not leave a space in the end before <0> as it will crash the game
 
 6. When you are done, save, and recompile the txt into tbl
   ```
   python PyTBL.pyw -c stat_txt.txt
   ```
-7. Simply drag the tbl file back into the rez folder in WinMPQ to replace it
+7. Simply drag the tbl file back into the rez folder in WinMPQ to replace it and **close WinMPQ**
 8. Replace patch_rt.mpq with the one you have just created and launch Broodwar to test your change in game!
 
 ## Roadmap
