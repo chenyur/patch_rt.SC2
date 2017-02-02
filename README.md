@@ -18,7 +18,7 @@ Only units that exist in SC2 will have its hotkey changed
 
 Any conflicts will be noted in the change list
 
-Intended to work with Broodwar version 1.16.1
+Initially intended to work with English Broodwar version 1.16.1
 
 ## How to create your own patch_rt.mpq with custom hotkeys
 TODO
