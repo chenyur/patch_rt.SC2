@@ -4,10 +4,9 @@ Replace your patch_rt.mpq to use Starcraft 2 default hotkeys with Broodwar
 Hope this makes starting/returning to Broodwar easier from SC2!
 
 ## Quick guide
-1. Download SC2.patch_rt.mpq
-2. Rename it patch_rt.mpq
-3. Backup your existing patch_rt.mpq in Broodwar folder
-4. Replace old patch_rt.mpq with the one you just downloaded
+1. Download patch_rt.mpq from this page
+2. Backup your existing patch_rt.mpq in Broodwar folder
+3. Replace old patch_rt.mpq with the one you just downloaded
 
 Revert to your backup if anything breaks!
 
@@ -75,7 +74,7 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
 - [x] v0.9
 * List of hotkey changes
 
-- [ ] v1.0
+- [x] v1.0
 * Patched patch_rt.mpq, stat_txt.tbl and stat_txt.txt
 * Testing in game
 
