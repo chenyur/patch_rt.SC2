@@ -59,7 +59,7 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
 
 ![screenshot](http://puu.sh/tKUlx/1ddf91795f.png)
 
-## Roadmap
+## Changes
 
 - [x] v0.1
 * Original patch_rt.mpq from Broodwar 1.16.1
