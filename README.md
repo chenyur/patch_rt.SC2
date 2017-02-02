@@ -54,8 +54,10 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
   ```
   python PyTBL.pyw -c stat_txt.txt
   ```
-7. Add the tbl file in WinMPQ to replace it and **close WinMPQ**, when prompted input \rez
+7. Add the tbl file in WinMPQ to replace it and **close WinMPQ**, when prompted input rez\
 8. Replace patch_rt.mpq with the one you have just created and launch Broodwar to test your change in game!
+
+![screenshot](http://puu.sh/tKUlx/1ddf91795f.png)
 
 ## Roadmap
 
