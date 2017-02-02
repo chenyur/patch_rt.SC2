@@ -577,7 +577,7 @@ h<1>Morph to <3>H<1>ydralisk<0>
 u<1>Morph to <3>U<1>ltralisk<0>
 d<1>Morph to <3>D<1>rone<0>
 v<1>Morph to O<3>v<1>erlord<0>
-m<1>Morph to <3>M<1>utalisk<0>
+t<1>Morph to Mu<3>t<1>alisk<0>
 g<5><3>G<1>uardian Aspect<0>
 q<1>Morph to <3>Q<1>ueen<0>
 f<1>Morph to De<3>f<1>iler<0>
