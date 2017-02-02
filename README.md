@@ -48,7 +48,7 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
   > find the line that reads "p<1>Warp in <3>P<1>ylon<0>"  
   > The first p represents its hotkey, but it is invisible in the game, <1> makes all text following it white, while <3> makes it yellow (to indicate that it's a hotkey)  
   > Since e isn't a part of "pylon", we can write (E) to indicate its new hotkey  
-  > Thus, the line becomes "e<1>Warp in Pylon <3>E<0>" - Do not put anything that's not in the alphabet as it will crash the game
+  > Thus, the line becomes "e<1>Warp in Pylon <3>E<0>" - Do not put anything that's not in the alphabet as it will ~~crash the game~~ nullify the patch
 
 6. When you are done, save, and recompile the txt into tbl
   ```
