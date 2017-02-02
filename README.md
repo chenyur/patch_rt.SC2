@@ -70,7 +70,7 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
 * Background & Usage
 
 - [x] v0.3
-* A guide on how to edit the hotkeys yourself,
+* A guide on how to edit the hotkeys yourself
 
 - [ ] v0.9
 * List of hotkey changes
