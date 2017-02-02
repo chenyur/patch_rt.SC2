@@ -27,6 +27,7 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
   * Install Python if you don't have it installed. 
   * To check, open up cmd/terminal and type python
   * I have Python 2.7.8 on a Windows 8.1 machine
+  * You might need to install PIL for your version of python
 2. Download WinMPQ 3.5.1.188 http://www.zezula.net/en/mpq/download.html
   * You also need the listfile, available on the same page, extract it
 3. Make a working copy of original patch_rt.mpq in the **same folder** as PyMS
