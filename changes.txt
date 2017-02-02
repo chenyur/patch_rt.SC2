@@ -1,0 +1,9 @@
+research burrow u to b
+burrow u to r
+unburrow u to r
+upgrade infantry weapons w to e
+upgrade vehicle weapons w to e
+overlord o to v
+marine m to a
+probe p to e
+warp in pylon p to e
