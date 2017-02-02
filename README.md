@@ -78,6 +78,9 @@ There are numerous guides on how to do this with WinMPQ 1.66 and Tblpad, but I'v
 * Patched patch_rt.mpq, stat_txt.tbl and stat_txt.txt
 * Testing in game
 
+- [x] v1.0.1
+* Mutalisk hotkey M -> T
+
 - [ ] v1.1
 * Variations. e.g. Replacing (S)courge
 
