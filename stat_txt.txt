@@ -369,7 +369,7 @@ r<4>Evolve Pa<3>r<1>asite<10>(Queen ability)<0>
 g<4>Evolve Pla<3>g<1>ue<10>(Defiler ability)<0>
 e<4>Evolve <3>E<1>nsnare<10>(Queen ability)<0>
 c<4>Evolve <3>C<1>onsume<10>(Defiler ability)<0>
-r<3>Bu<3>r<3>row<0>
+r<3>Bu<3>r<1>row<0>
 r<0><3>U<1>nburrow<0>
 i<0><3>I<1>nfest Terran Command Center<0>
 b<3>Spawn <3>B<1>roodlings<0>
@@ -577,7 +577,7 @@ h<1>Morph to <3>H<1>ydralisk<0>
 u<1>Morph to <3>U<1>ltralisk<0>
 d<1>Morph to <3>D<1>rone<0>
 v<1>Morph to O<3>v<1>erlord<0>
-t<1>Morph to Mu<3>t<1>alisk<0>
+m<1>Morph to <3>M<1>utalisk<0>
 g<5><3>G<1>uardian Aspect<0>
 q<1>Morph to <3>Q<1>ueen<0>
 f<1>Morph to De<3>f<1>iler<0>
